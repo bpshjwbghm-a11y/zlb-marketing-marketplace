@@ -1,0 +1,22 @@
+{
+  "name": "zlb-marketing-marketplace",
+  "description": "郑刘斌ᴬᴵ⁺工作室 营销增长专家市场",
+  "description_en": "Zheng Liubin AI+ Studio - Marketing Growth Experts Marketplace",
+  "owner": {
+    "name": "郑刘斌ᴬᴵ⁺工作室",
+    "email": "826622487@qq.com"
+  },
+  "metadata": {
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "zlb-growth-operator",
+      "source": "./plugins/zlb-growth-operator",
+      "version": "1.0.0",
+      "description": "增长操盘官：依托 52 个营销子技能，诊断增长漏斗、制定可执行方案、优化转化与投放、搭建可验证的测量体系。",
+      "description_en": "Growth Operator: backed by 52 marketing sub-skills across strategy, content, SEO, paid ads, CRO, lifecycle messaging, B2B sales enablement, and attribution.",
+      "license": "MIT"
+    }
+  ]
+}

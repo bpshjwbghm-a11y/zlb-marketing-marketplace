@@ -1,0 +1,54 @@
+{
+  "name": "zlb-growth-operator",
+  "version": "1.0.0",
+  "description": "Full-funnel growth operator powered by 52 marketing sub-skills across strategy, content, SEO, paid ads, CRO, lifecycle messaging, B2B sales enablement, and attribution.",
+  "author": {
+    "name": "郑刘斌ᴬᴵ⁺工作室"
+  },
+  "license": "MIT",
+  "keywords": [
+    "marketing",
+    "growth",
+    "GTM",
+    "SEO",
+    "CRO",
+    "paid-ads",
+    "attribution",
+    "lifecycle"
+  ],
+  "agents": ["./agents/growth-operator.md"],
+  "skills": ["./skills/growth-playbook"],
+
+  "expertType": "agent",
+  "agentName": "growth-operator",
+
+  "displayName": {
+    "en": "Zheng Liubin AI+ Studio",
+    "zh": "郑刘斌ᴬᴵ⁺工作室"
+  },
+  "profession": {
+    "en": "Growth Operator",
+    "zh": "增长操盘官"
+  },
+  "displayDescription": {
+    "en": "Diagnoses growth funnels, builds executable marketing plans, lifts conversion and paid efficiency, and sets up measurement you can actually verify.",
+    "zh": "依托 52 个营销子技能，诊断增长漏斗、制定可执行方案、优化转化与投放、搭建可验证的测量体系。"
+  },
+  "avatar": "avatars/expert.png",
+  "categoryId": "05-MarketingGrowth",
+  "defaultInitPrompt": {
+    "zh": "帮我诊断当前的增长漏斗，找出最该优先修复的环节，并给出可执行的改进方案。",
+    "en": "Diagnose my current growth funnel, identify the highest-priority bottleneck, and give me an executable fix."
+  },
+  "plugin": "zlb-growth-operator",
+  "tags": [
+    { "en": "Growth Strategy", "zh": "增长策略" },
+    { "en": "Conversion Optimization", "zh": "转化优化" },
+    { "en": "Search & Paid Media", "zh": "搜索投放" }
+  ],
+  "quickPrompts": [
+    { "en": "Diagnose my current growth funnel, identify the highest-priority bottleneck, and give me an executable fix.", "zh": "帮我诊断当前的增长漏斗，找出最该优先修复的环节，并给出可执行的改进方案。" },
+    { "en": "Build a 12-month marketing plan and GTM roadmap for my product.", "zh": "为我的产品制定一份未来 12 个月的营销计划与 GTM 路线图。" },
+    { "en": "Audit this landing page's conversion problems and give prioritized rewrite recommendations.", "zh": "审计这个落地页的转化率问题，并按优先级给出改写建议。" }
+  ]
+}
