@@ -18,7 +18,18 @@
 
 1. 打开 WorkBuddy，点击左侧 **插件** 按钮
 2. 点击页面右上角的 **+** 按钮
-3. 输入本仓库地址，例如 `https://github.com/<你的账号>/<仓库名>`
+3. 输入市场地址（二选一，推荐简写）：
+
+   ```
+   bpshjwbghm-a11y/zlb-marketing-marketplace
+   ```
+
+   或完整地址：
+
+   ```
+   https://github.com/bpshjwbghm-a11y/zlb-marketing-marketplace
+   ```
+
 4. 确认后即可在市场列表中浏览并安装「增长操盘官」
 5. 安装后在 **专家中心 → 我的专家** 直接使用
 
