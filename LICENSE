@@ -20,11 +20,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
----
-
-本仓库包含源自 Corey Haines 的 marketingskills 项目（MIT 许可）的内容，
-由郑刘斌郑刘斌ᴬᴵ⁺工作室进行本地化改造：中文化处理、移除付费合作方推广内容、
-重构为 WorkBuddy 专家包的渐进式路由结构。
-
-原始许可文件：plugins/zlb-growth-operator/LICENSE.txt

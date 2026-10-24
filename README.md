@@ -56,7 +56,13 @@ CLI 脚本需要 Node 18+（零依赖，无需 npm install）。凭据配置请�
 
 ## 许可证
 
-方法论源自 coreyhaines31/marketingskills（MIT License），与本项目同为 MIT。
+MIT License。本仓库在 Corey Haines 的 [marketingskills](https://github.com/coreyhaines31/marketingskills)（MIT）基础上进行本地化改造：
+
+- 中文化处理与术语对齐
+- 移除上游付费合作方推广内容
+- 重构为 WorkBuddy 专家包的渐进式路由结构
+
+上游版权声明保留于 `plugins/zlb-growth-operator/LICENSE.txt`。
 
 ## 联系方式
 
